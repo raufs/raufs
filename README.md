@@ -15,6 +15,6 @@ Hi there, my name is Rauf, I have been working in the field of microbial bioinfo
 
 * [*lsa*BGC](https://github.com/Kalan-Lab/lsaBGC): :whale2: suite for genomic and metagenomic mining of micro-diversity in BGCs and general evolutionary analysis.
 * [ConSequences](https://github.com/broadinstitute/ConSequences): programs to find long (>10 kb) contiguous and continuous segments in genomes. 
-* [seQouia](https://github.com/broadinstitute/sequoia): framework for diverse omics workflows, primarily focused on QC, processing and analysis of bacterial genomic sequencing sets. 
-* [AncestralGeneRator](https://github.com/broadinstitute/ancestralgenerator): programs to simplify ancestral state reconstruction of ortholog groups across phylogeies. 
-* [PerMutation](https://github.com/broadinstitute/permutation): Programs for statistical determination of essential and conditionally essential genes from E. faecalis TnSeq datasets.
+* [seQouia](https://github.com/broadinstitute/sequoia): framework for diverse omics workflows, primarily focused on QC, processing and analysis of bacterial (meta-)genomic sequencing datasets. 
+* [AncestralGeneRator](https://github.com/broadinstitute/ancestralgenerator): programs to simplify ancestral state reconstruction of ortholog group copy counts across phylogeies. 
+* [PerMutation](https://github.com/broadinstitute/permutation): Programs for statistical determination of essential and conditionally essential genes from *E. faecalis* TnSeq datasets.
