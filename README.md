@@ -1,6 +1,6 @@
 ### Rauf Salamzade - Grad Student @ University of Wisconsin - Madison / Kalan Lab
 
-Hi there, my name is Rauf, I have been working in the field of microbial bioinformatics since 2013 and started my PhD in microbiology in the Fall of 2020 at the University of Wisconsin - Madison, working within the Kalan Lab. Some software I have developed include:
+Hi there, my name is Rauf, I am a doctorate student in microbiology at the University of Wisconsin - Madison, working within the Kalan Lab. Prior to that, I worked in the Earl Bacterial Genomics group at the Broad Institute, the functional data science team at Bayer CropScience Biologics, and briefly within the Arkin lab at LBNL/UC Berkeley. Some software I have developed include:
 
 :snake: = *on Bioconda*; :whale2: = *on Docker Hub*; :pie::pie: = *on PyPi*
 
