@@ -14,7 +14,7 @@ Software developed:
 #### Supported but no longer in active development:
 
 * [*lsa*BGC](https://github.com/Kalan-Lab/lsaBGC): :whale2: suite for genomic and metagenomic mining of micro-diversity in BGCs and general evolutionary analysis.
-* [ConSequences](https://github.com/broadinstitute/ConSequences): programs to find long (>10 kb) contiguous and conserved (> 99% identity) segments across genomes. 
+* [ConSequences](https://github.com/broadinstitute/ConSequences): programs to find long (>10 kb) contiguous and conserved (> 99% identity) segments across genomes associated with specific geographic locations.
 * [seQouia](https://github.com/broadinstitute/sequoia): framework for diverse omics workflows, primarily focused on QC, processing and analysis of bacterial (meta-)genomic sequencing datasets. 
 * [AncestralGeneRator](https://github.com/broadinstitute/ancestralgenerator): programs to simplify ancestral state reconstruction of ortholog group copy counts across phylogeies. 
 * [PerMutation](https://github.com/broadinstitute/permutation): Programs for statistical determination of essential and conditionally essential genes from *E. faecalis* TnSeq datasets.
