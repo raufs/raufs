@@ -2,14 +2,14 @@
 
 Software developed:
 
-:snake: = *on Bioconda*; :whale2: = *on Docker Hub*; :pie::pie: = *on PyPi*
+:snake: = *on Bioconda*; :whale2: = *on Docker Hub*; :pie: = *on PyPi*
 
 #### Active development:
 
 * [*zol (& fai)*](https://github.com/Kalan-Lab/zol): :snake: :whale2: suite for evolutionary and functional analysis of gene clusters (co-located sets of genes).
 * [skDER (& CiDDER)](https://github.com/raufs/skDER): :snake: programs for genomic dereplication using ANI and pan-genome saturation approximation.
-* [*lsa*BGC-Pan](https://github.com/Kalan-Lab/lsaBGC-Pan): :snake: suite/workflow for pan-BGC-ome analyses.
-* [codoff](https://github.com/Kalan-Lab/codoff): :snake::pie::pie:   program to statistically assess differences in codon usage between a focal region and the background genome.
+* [*lsa*BGC-Pan](https://github.com/Kalan-Lab/lsaBGC-Pan): :snake: :whale2: suite/workflow for pan-BGC-ome analyses.
+* [codoff](https://github.com/Kalan-Lab/codoff): :snake::pie:   program to statistically assess differences in codon usage between a focal region and the background genome.
   
 #### Supported but no longer in active development:
 
