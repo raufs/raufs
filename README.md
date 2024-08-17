@@ -1,6 +1,12 @@
 ### Rauf Salamzade - Grad Student @ University of Wisconsin - Madison / Kalan Lab
 
-Software developed:
+Interested in microbial ecology and evolution. 
+
+## Scientific studies:
+
+Peer reviewed + preprint studies I have contributed to can be found on my [Google Scholar 👨‍🎓](https://scholar.google.com/citations?hl=en&user=OBPpZq4AAAAJ&view_op=list_works&sortby=pubdate)
+
+## Software developed:
 
 :snake: = *on Bioconda*; :whale2: = *on Docker Hub*; :pie: = *on PyPi*
 
