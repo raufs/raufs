@@ -1,5 +1,4 @@
-### Rauf Salamzade - Grad Student @ University of Wisconsin - Madison / Kalan Lab
-
+### Rauf Salamzade 
 Interested in microbial ecology and evolution. 
 
 ## Scientific studies:
