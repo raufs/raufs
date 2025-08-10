@@ -15,6 +15,7 @@ Peer reviewed + preprint studies I have contributed to can be found on my [Googl
 * [skDER (& CiDDER)](https://github.com/raufs/skDER): :snake: :whale2: programs for genomic dereplication using ANI and pan-genome saturation approximation.
 * [*lsa*BGC-Pan](https://github.com/Kalan-Lab/lsaBGC-Pan): :snake: :whale2: suite/workflow for pan-BGC-ome analyses.
 * [codoff](https://github.com/Kalan-Lab/codoff): :snake::pie:   program to statistically assess differences in codon usage between a focal region and the background genome.
+* [psaps](https://github.com/raufs/psaps/tree/main): program to assess pangenome expansion rate differences of clades by standardizing them using phylogenetic breadth.
   
 #### Supported but no longer in active development:
 
