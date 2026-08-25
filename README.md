@@ -11,7 +11,7 @@ Peer reviewed + preprint studies I have contributed to can be found on my [Googl
 
 #### Active development:
 
-* [*bofasa*](https://github.com/Kalan-Lab/bofasa): bacterial orthology finding and syntenic analysis.
+* [*bofasa*](https://github.com/raufs/bofasa): bacterial orthology finding and syntenic analysis.
 * [*zol (& fai)*](https://github.com/Kalan-Lab/zol): :snake: :whale2: suite for evolutionary and functional analysis of gene clusters (co-located sets of genes).
 * [skDER (& CiDDER)](https://github.com/raufs/skDER): :snake: :whale2: programs for genomic dereplication using ANI and pan-genome saturation approximation.
 * [*lsa*BGC-Pan](https://github.com/Kalan-Lab/lsaBGC-Pan): :snake: :whale2: suite/workflow for pan-BGC-ome analyses.
